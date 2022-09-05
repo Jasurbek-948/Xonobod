@@ -1,0 +1,10 @@
+.section1 input{
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom:2px solid black !important;
+}
+.inp{
+    border: none !important;
+    background: none;
+}
